@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@auth/prisma-adapter": "^2.4.2",
-    "@prisma/client": "^5.19.0",
+    "@prisma/client": "^5.19.1",
     "daisyui": "^4.12.10",
     "next": "14.2.7",
     "next-auth": "^4.24.7",

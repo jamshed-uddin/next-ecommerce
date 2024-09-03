@@ -25,7 +25,7 @@ export default function AddProductPage() {
       data: { name, description, imageUrl, price },
     });
 
-    // redirect("/");
+    redirect("/");
   };
 
   return (
